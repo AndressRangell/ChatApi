@@ -1,0 +1,1 @@
+rootProject.name = "com.andres.rangel.ktor-chat"
